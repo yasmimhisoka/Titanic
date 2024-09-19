@@ -1,0 +1,888 @@
+Name,Sex,Survived,Age,Pclass,Fare
+Mr. Owen Harris Braund,Homem,Morreu,22.0,3,7.25
+Mrs. John Bradley (Florence Briggs Thayer) Cumings,Mulher,Sobreviveu,38.0,1,71.2833
+Miss. Laina Heikkinen,Mulher,Morreu,26.0,3,7.925
+Mrs. Jacques Heath (Lily May Peel) Futrelle,Mulher,Sobreviveu,35.0,1,53.1
+Mr. William Henry Allen,Homem,Morreu,35.0,3,8.05
+Mr. James Moran,Homem,Morreu,27.0,3,8.4583
+Mr. Timothy J McCarthy,Homem,Morreu,54.0,1,51.8625
+Master. Gosta Leonard Palsson,Homem,Morreu,2.0,3,21.075
+Mrs. Oscar W (Elisabeth Vilhelmina Berg) Johnson,Mulher,Sobreviveu,27.0,3,11.1333
+Mrs. Nicholas (Adele Achem) Nasser,Mulher,Sobreviveu,14.0,2,30.0708
+Miss. Marguerite Rut Sandstrom,Mulher,Sobreviveu,4.0,3,16.7
+Miss. Elizabeth Bonnell,Mulher,Sobreviveu,58.0,1,26.55
+Mr. William Henry Saundercock,Homem,Morreu,20.0,3,8.05
+Mr. Anders Johan Andersson,Homem,Morreu,39.0,3,31.275
+Miss. Hulda Amanda Adolfina Vestrom,Mulher,Sobreviveu,14.0,3,7.8542
+Mrs. (Mary D Kingcome) Hewlett,Mulher,Sobreviveu,55.0,2,16.0
+Master. Eugene Rice,Homem,Morreu,2.0,3,29.125
+Mr. Charles Eugene Williams,Homem,Morreu,23.0,2,13.0
+Mrs. Julius (Emelia Maria Vandemoortele) Vander Planke,Mulher,Morreu,31.0,3,18.0
+Mrs. Fatima Masselmani,Mulher,Sobreviveu,22.0,3,7.225
+Mr. Joseph J Fynney,Homem,Morreu,35.0,2,26.0
+Mr. Lawrence Beesley,Homem,Morreu,34.0,2,13.0
+Miss. Anna McGowan,Mulher,Sobreviveu,15.0,3,8.0292
+Mr. William Thompson Sloper,Homem,Morreu,28.0,1,35.5
+Miss. Torborg Danira Palsson,Mulher,Morreu,8.0,3,21.075
+Mrs. Carl Oscar (Selma Augusta Emilia Johansson) Asplund,Mulher,Morreu,38.0,3,31.3875
+Mr. Farred Chehab Emir,Homem,Morreu,26.0,3,7.225
+Mr. Charles Alexander Fortune,Homem,Morreu,19.0,1,263.0
+Miss. Ellen O'Dwyer,Mulher,Sobreviveu,24.0,3,7.8792
+Mr. Lalio Todoroff,Homem,Morreu,23.0,3,7.8958
+Don. Manuel E Uruchurtu,Homem,Morreu,40.0,1,27.7208
+Mrs. William Augustus (Marie Eugenie) Spencer,Mulher,Sobreviveu,48.0,1,146.5208
+Miss. Mary Agatha Glynn,Mulher,Sobreviveu,18.0,3,7.75
+Mr. Edward H Wheadon,Homem,Morreu,66.0,2,10.5
+Mr. Edgar Joseph Meyer,Homem,Sobreviveu,28.0,1,82.1708
+Mr. Alexander Oskar Holverson,Homem,Morreu,42.0,1,52.0
+Mr. Hanna Mamee,Homem,Morreu,18.0,3,7.2292
+Mr. Ernest Charles Cann,Homem,Morreu,21.0,3,8.05
+Miss. Augusta Maria Vander Planke,Mulher,Morreu,18.0,3,18.0
+Miss. Jamila Nicola-Yarred,Mulher,Sobreviveu,14.0,3,11.2417
+Mrs. Johan (Johanna Persdotter Larsson) Ahlin,Mulher,Morreu,40.0,3,9.475
+Mrs. William John Robert (Dorothy Ann Wonnacott) Turpin,Mulher,Sobreviveu,27.0,2,21.0
+Miss. Simonne Marie Anne Andree Laroche,Mulher,Sobreviveu,3.0,2,41.5792
+Miss. Margaret Delia Devaney,Mulher,Sobreviveu,19.0,3,7.8792
+Mr. William John Rogers,Homem,Morreu,30.0,3,8.05
+Mr. Denis Lennon,Homem,Morreu,20.0,3,15.5
+Miss. Bridget O'Driscoll,Mulher,Sobreviveu,27.0,3,7.75
+Mr. Youssef Samaan,Homem,Morreu,16.0,3,21.6792
+Mrs. Josef (Josefine Franchi) Arnold-Franchi,Mulher,Morreu,18.0,3,17.8
+Master. Juha Niilo Panula,Homem,Morreu,7.0,3,39.6875
+Mr. Richard Cater Nosworthy,Homem,Morreu,21.0,3,7.8
+Mrs. Henry Sleeper (Myna Haxtun) Harper,Mulher,Sobreviveu,49.0,1,76.7292
+Mrs. Lizzie (Elizabeth Anne Wilkinson) Faunthorpe,Mulher,Sobreviveu,29.0,2,26.0
+Mr. Engelhart Cornelius Ostby,Homem,Morreu,65.0,1,61.9792
+Mr. Hugh Woolner,Homem,Morreu,46.0,1,35.5
+Miss. Emily Rugg,Mulher,Sobreviveu,21.0,2,10.5
+Mr. Mansouer Novel,Homem,Morreu,28.5,3,7.2292
+Miss. Constance Mirium West,Mulher,Sobreviveu,5.0,2,27.75
+Master. William Frederick Goodwin,Homem,Morreu,11.0,3,46.9
+Mr. Orsen Sirayanian,Homem,Morreu,22.0,3,7.2292
+Miss. Amelie Icard,Mulher,Sobreviveu,38.0,1,80.0
+Mr. Henry Birkhardt Harris,Homem,Morreu,45.0,1,83.475
+Master. Harald Skoog,Homem,Morreu,4.0,3,27.9
+Mr. Albert A Stewart,Homem,Morreu,64.0,1,27.7208
+Master. Gerios Moubarek,Homem,Sobreviveu,7.0,3,15.2458
+Mrs. (Elizabeth Ramell) Nye,Mulher,Sobreviveu,29.0,2,10.5
+Mr. Ernest James Crease,Homem,Morreu,19.0,3,8.1583
+Miss. Erna Alexandra Andersson,Mulher,Sobreviveu,17.0,3,7.925
+Mr. Vincenz Kink,Homem,Morreu,26.0,3,8.6625
+Mr. Stephen Curnow Jenkin,Homem,Morreu,32.0,2,10.5
+Miss. Lillian Amy Goodwin,Mulher,Morreu,16.0,3,46.9
+Mr. Ambrose Jr Hood,Homem,Morreu,21.0,2,73.5
+Mr. Apostolos Chronopoulos,Homem,Morreu,26.0,3,14.4542
+Mr. Lee Bing,Homem,Morreu,32.0,3,56.4958
+Mr. Sigurd Hansen Moen,Homem,Morreu,25.0,3,7.65
+Mr. Ivan Staneff,Homem,Morreu,23.0,3,7.8958
+Mr. Rahamin Haim Moutal,Homem,Morreu,28.0,3,8.05
+Master. Alden Gates Caldwell,Homem,Sobreviveu,0.83,2,29.0
+Miss. Elizabeth Dowdell,Mulher,Sobreviveu,30.0,3,12.475
+Mr. Achille Waelens,Homem,Morreu,22.0,3,9.0
+Mr. Jan Baptist Sheerlinck,Homem,Morreu,29.0,3,9.5
+Miss. Brigdet Delia McDermott,Mulher,Sobreviveu,31.0,3,7.7875
+Mr. Francisco M Carrau,Homem,Morreu,28.0,1,47.1
+Miss. Bertha Ilett,Mulher,Sobreviveu,17.0,2,10.5
+Mrs. Karl Alfred (Maria Mathilda Gustafsson) Backstrom,Mulher,Sobreviveu,33.0,3,15.85
+Mr. William Neal Ford,Homem,Morreu,16.0,3,34.375
+Mr. Selman Francis Slocovski,Homem,Morreu,20.0,3,8.05
+Miss. Mabel Helen Fortune,Mulher,Sobreviveu,23.0,1,263.0
+Mr. Francesco Celotti,Homem,Morreu,24.0,3,8.05
+Mr. Emil Christmann,Homem,Morreu,29.0,3,8.05
+Mr. Paul Edvin Andreasson,Homem,Morreu,20.0,3,7.8542
+Mr. Herbert Fuller Chaffee,Homem,Morreu,46.0,1,61.175
+Mr. Bertram Frank Dean,Homem,Morreu,26.0,3,20.575
+Mr. Daniel Coxon,Homem,Morreu,59.0,3,7.25
+Mr. Charles Joseph Shorney,Homem,Morreu,22.0,3,8.05
+Mr. George B Goldschmidt,Homem,Morreu,71.0,1,34.6542
+Mr. William Bertram Greenfield,Homem,Morreu,23.0,1,63.3583
+Mrs. John T (Ada Julia Bone) Doling,Mulher,Sobreviveu,34.0,2,23.0
+Mr. Sinai Kantor,Homem,Morreu,34.0,2,26.0
+Miss. Matilda Petranec,Mulher,Morreu,28.0,3,7.8958
+Mr. Pastcho Petroff,Homem,Morreu,29.0,3,7.8958
+Mr. Richard Frasar White,Homem,Morreu,21.0,1,77.2875
+Mr. Gustaf Joel Johansson,Homem,Morreu,33.0,3,8.6542
+Mr. Anders Vilhelm Gustafsson,Homem,Morreu,37.0,3,7.925
+Mr. Stoytcho Mionoff,Homem,Morreu,28.0,3,7.8958
+Miss. Anna Kristine Salkjelsvik,Mulher,Morreu,21.0,3,7.65
+Mr. Albert Johan Moss,Homem,Morreu,29.0,3,7.775
+Mr. Tido Rekic,Homem,Morreu,38.0,3,7.8958
+Miss. Bertha Moran,Mulher,Morreu,28.0,3,24.15
+Mr. Walter Chamberlain Porter,Homem,Morreu,47.0,1,52.0
+Miss. Hileni Zabour,Mulher,Sobreviveu,14.5,3,14.4542
+Mr. David John Barton,Homem,Morreu,22.0,3,8.05
+Miss. Katriina Jussila,Mulher,Morreu,20.0,3,9.825
+Miss. Malake Attalah,Mulher,Morreu,17.0,3,14.4583
+Mr. Edvard Pekoniemi,Homem,Morreu,21.0,3,7.925
+Mr. Patrick Connors,Homem,Morreu,70.5,3,7.75
+Mr. William John Robert Turpin,Homem,Morreu,29.0,2,21.0
+Mr. Quigg Edmond Baxter,Homem,Morreu,24.0,1,247.5208
+Miss. Ellis Anna Maria Andersson,Mulher,Morreu,2.0,3,31.275
+Mr. Stanley George Hickman,Homem,Morreu,21.0,2,73.5
+Mr. Leonard Charles Moore,Homem,Morreu,19.0,3,8.05
+Mr. Nicholas Nasser,Homem,Morreu,32.5,2,30.0708
+Miss. Susan Webber,Mulher,Sobreviveu,32.5,2,13.0
+Mr. Percival Wayland White,Homem,Morreu,54.0,1,77.2875
+Master. Elias Nicola-Yarred,Homem,Sobreviveu,12.0,3,11.2417
+Mr. Martin McMahon,Homem,Morreu,19.0,3,7.75
+Mr. Fridtjof Arne Madsen,Homem,Morreu,24.0,3,7.1417
+Miss. Anna Peter,Mulher,Sobreviveu,2.0,3,22.3583
+Mr. Johan Ekstrom,Homem,Morreu,45.0,3,6.975
+Mr. Jozef Drazenoic,Homem,Morreu,33.0,3,7.8958
+Mr. Domingos Fernandeo Coelho,Homem,Morreu,20.0,3,7.05
+Mrs. Alexander A (Grace Charity Laury) Robins,Mulher,Morreu,47.0,3,14.5
+Mrs. Leopold (Mathilde Francoise Pede) Weisz,Mulher,Sobreviveu,29.0,2,26.0
+Mr. Samuel James Hayden Sobey,Homem,Morreu,25.0,2,13.0
+Mr. Emile Richard,Homem,Morreu,23.0,2,15.0458
+Miss. Helen Monypeny Newsom,Mulher,Sobreviveu,19.0,1,26.2833
+Mr. Jacques Heath Futrelle,Homem,Sobreviveu,37.0,1,53.1
+Mr. Olaf Elon Osen,Homem,Morreu,16.0,3,9.2167
+Mr. Victor Giglio,Homem,Morreu,24.0,1,79.2
+Mrs. Joseph (Sultana) Boulos,Mulher,Morreu,40.0,3,15.2458
+Miss. Anna Sofia Nysten,Mulher,Sobreviveu,22.0,3,7.75
+Mrs. Pekka Pietari (Elin Matilda Dolck) Hakkarainen,Mulher,Morreu,24.0,3,15.85
+Mr. Jeremiah Burke,Homem,Morreu,19.0,3,6.75
+Mr. Edgardo Samuel Andrew,Homem,Morreu,18.0,2,11.5
+Mr. Joseph Charles Nicholls,Homem,Morreu,19.0,2,36.75
+Mr. August Edvard Andersson,Homem,Morreu,27.0,3,7.7958
+Miss. Robina Maggie Ford,Mulher,Morreu,9.0,3,34.375
+Mr. Michel Navratil,Homem,Morreu,36.5,2,26.0
+Rev. Thomas Roussel Davids Byles,Homem,Morreu,42.0,2,13.0
+Rev. Robert James Bateman,Homem,Morreu,51.0,2,12.525
+Mrs. Thomas (Edith Wearne) Pears,Mulher,Sobreviveu,22.0,1,66.6
+Mr. Alfonzo Meo,Homem,Morreu,55.5,3,8.05
+Mr. Austin Blyler van Billiard,Homem,Morreu,40.5,3,14.5
+Mr. Ole Martin Olsen,Homem,Morreu,27.0,3,7.3125
+Mr. Charles Duane Williams,Homem,Sobreviveu,51.0,1,61.3792
+Miss. Katherine Gilnagh,Mulher,Sobreviveu,16.0,3,7.7333
+Mr. Harry Corn,Homem,Morreu,30.0,3,8.05
+Mr. Mile Smiljanic,Homem,Morreu,37.0,3,8.6625
+Master. Thomas Henry Sage,Homem,Morreu,5.0,3,69.55
+Mr. John Hatfield Cribb,Homem,Morreu,44.0,3,16.1
+Mrs. James (Elizabeth Inglis Milne) Watt,Mulher,Sobreviveu,40.0,2,15.75
+Mr. John Viktor Bengtsson,Homem,Morreu,26.0,3,7.775
+Mr. Jovo Calic,Homem,Morreu,17.0,3,8.6625
+Master. Eino Viljami Panula,Homem,Morreu,1.0,3,39.6875
+Master. Frank John William Goldsmith,Homem,Sobreviveu,9.0,3,20.525
+Mrs. (Edith Martha Bowerman) Chibnall,Mulher,Sobreviveu,48.0,1,55.0
+Mrs. William (Anna Bernhardina Karlsson) Skoog,Mulher,Morreu,45.0,3,27.9
+Mr. John D Baumann,Homem,Morreu,60.0,1,25.925
+Mr. Lee Ling,Homem,Morreu,28.0,3,56.4958
+Mr. Wyckoff Van der hoef,Homem,Morreu,61.0,1,33.5
+Master. Arthur Rice,Homem,Morreu,4.0,3,29.125
+Miss. Eleanor Ileen Johnson,Mulher,Sobreviveu,1.0,3,11.1333
+Mr. Antti Wilhelm Sivola,Homem,Morreu,21.0,3,7.925
+Mr. James Clinch Smith,Homem,Morreu,56.0,1,30.6958
+Mr. Klas Albin Klasen,Homem,Morreu,18.0,3,7.8542
+Master. Henry Forbes Lefebre,Homem,Morreu,5.0,3,25.4667
+Miss. Ann Elizabeth Isham,Mulher,Sobreviveu,50.0,1,28.7125
+Mr. Reginald Hale,Homem,Morreu,30.0,2,13.0
+Mr. Lionel Leonard,Homem,Morreu,36.0,3,0.0
+Miss. Constance Gladys Sage,Mulher,Morreu,8.0,3,69.55
+Mr. Rene Pernot,Homem,Morreu,39.0,2,15.05
+Master. Clarence Gustaf Hugo Asplund,Homem,Morreu,9.0,3,31.3875
+Master. Richard F Becker,Homem,Sobreviveu,1.0,2,39.0
+Miss. Luise Gretchen Kink-Heilmann,Mulher,Sobreviveu,4.0,3,22.025
+Mr. Hugh Roscoe Rood,Homem,Morreu,39.0,1,50.0
+Mrs. Thomas (Johanna Godfrey) O'Brien,Mulher,Morreu,26.0,3,15.5
+Mr. Charles Hallace Romaine,Homem,Sobreviveu,45.0,1,26.55
+Mr. John Bourke,Homem,Morreu,40.0,3,15.5
+Mr. Stjepan Turcin,Homem,Morreu,36.0,3,7.8958
+Mrs. (Rosa) Pinsky,Mulher,Sobreviveu,32.0,2,13.0
+Mr. William Carbines,Homem,Morreu,19.0,2,13.0
+Miss. Carla Christine Nielsine Andersen-Jensen,Mulher,Sobreviveu,19.0,3,7.8542
+Master. Michel M Navratil,Homem,Sobreviveu,3.0,2,26.0
+Mrs. James Joseph (Margaret Tobin) Brown,Mulher,Sobreviveu,44.0,1,27.7208
+Miss. Elise Lurette,Mulher,Sobreviveu,58.0,1,146.5208
+Mr. Robert Mernagh,Homem,Morreu,28.0,3,7.75
+Mr. Karl Siegwart Andreas Olsen,Homem,Morreu,42.0,3,8.4042
+Miss. Margaret Madigan,Mulher,Morreu,21.0,3,7.75
+Miss. Henriette Yrois,Mulher,Sobreviveu,24.0,2,13.0
+Mr. Nestor Cyriel Vande Walle,Homem,Morreu,28.0,3,9.5
+Mr. Frederick Sage,Homem,Morreu,17.0,3,69.55
+Mr. Jakob Alfred Johanson,Homem,Morreu,34.0,3,6.4958
+Mr. Gerious Youseff,Homem,Morreu,45.5,3,7.225
+Mr. Gurshon Cohen,Homem,Morreu,18.0,3,8.05
+Miss. Telma Matilda Strom,Mulher,Sobreviveu,2.0,3,10.4625
+Mr. Karl Alfred Backstrom,Homem,Morreu,32.0,3,15.85
+Mr. Nassef Cassem Albimona,Homem,Morreu,26.0,3,18.7875
+Miss. Helen Carr,Mulher,Sobreviveu,16.0,3,7.75
+Mr. Henry Blank,Homem,Morreu,40.0,1,31.0
+Mr. Ahmed Ali,Homem,Morreu,24.0,3,7.05
+Miss. Clear Annie Cameron,Mulher,Sobreviveu,35.0,2,21.0
+Mr. John Henry Perkin,Homem,Morreu,22.0,3,7.25
+Mr. Hans Kristensen Givard,Homem,Morreu,30.0,2,13.0
+Mr. Philip Kiernan,Homem,Morreu,22.0,3,7.75
+Miss. Madeleine Newell,Mulher,Sobreviveu,31.0,1,113.275
+Miss. Eliina Honkanen,Mulher,Morreu,27.0,3,7.925
+Mr. Sidney Samuel Jacobsohn,Homem,Morreu,42.0,2,27.0
+Miss. Albina Bazzani,Mulher,Sobreviveu,32.0,1,76.2917
+Mr. Walter Harris,Homem,Morreu,30.0,2,10.5
+Mr. Victor Francis Sunderland,Homem,Morreu,16.0,3,8.05
+Mr. James H Bracken,Homem,Morreu,27.0,2,13.0
+Mr. George Henry Green,Homem,Morreu,51.0,3,8.05
+Mr. Christo Nenkoff,Homem,Morreu,22.0,3,7.8958
+Mr. Frederick Maxfield Hoyt,Homem,Sobreviveu,38.0,1,90.0
+Mr. Karl Ivar Sven Berglund,Homem,Morreu,22.0,3,9.35
+Mr. William John Mellors,Homem,Morreu,19.0,2,10.5
+Mr. John Hall Lovell,Homem,Morreu,20.5,3,7.25
+Mr. Arne Jonas Fahlstrom,Homem,Morreu,18.0,2,13.0
+Miss. Mathilde Lefebre,Mulher,Morreu,12.0,3,25.4667
+Mrs. Henry Birkhardt (Irene Wallach) Harris,Mulher,Sobreviveu,35.0,1,83.475
+Mr. Bengt Edvin Larsson,Homem,Morreu,29.0,3,7.775
+Mr. Ernst Adolf Sjostedt,Homem,Morreu,59.0,2,13.5
+Miss. Lillian Gertrud Asplund,Mulher,Morreu,5.0,3,31.3875
+Mr. Robert William Norman Leyson,Homem,Morreu,24.0,2,10.5
+Miss. Alice Phoebe Harknett,Mulher,Morreu,21.0,3,7.55
+Mr. Stephen Hold,Homem,Morreu,44.0,2,26.0
+Miss. Marjorie Collyer,Mulher,Sobreviveu,8.0,2,26.25
+Mr. Frederick William Pengelly,Homem,Morreu,19.0,2,10.5
+Mr. George Henry Hunt,Homem,Morreu,33.0,2,12.275
+Miss. Thamine Zabour,Mulher,Sobreviveu,19.0,3,14.4542
+Miss. Katherine Murphy,Mulher,Morreu,18.0,3,15.5
+Mr. Reginald Charles Coleridge,Homem,Morreu,29.0,2,10.5
+Mr. Matti Alexanteri Maenpaa,Homem,Morreu,22.0,3,7.125
+Mr. Sleiman Attalah,Homem,Morreu,30.0,3,7.225
+Dr. William Edward Minahan,Homem,Morreu,44.0,1,90.0
+Miss. Agda Thorilda Viktoria Lindahl,Mulher,Sobreviveu,25.0,3,7.775
+Mrs. William (Anna) Hamalainen,Mulher,Sobreviveu,24.0,2,14.5
+Mr. Richard Leonard Beckwith,Homem,Sobreviveu,37.0,1,52.5542
+Rev. Ernest Courtenay Carter,Homem,Morreu,54.0,2,26.0
+Mr. James George Reed,Homem,Morreu,18.0,3,7.25
+Mrs. Wilhelm (Elna Matilda Persson) Strom,Mulher,Morreu,29.0,3,10.4625
+Mr. William Thomas Stead,Homem,Morreu,62.0,1,26.55
+Mr. William Arthur Lobb,Homem,Morreu,30.0,3,16.1
+Mrs. Viktor (Helena Wilhelmina) Rosblom,Mulher,Morreu,41.0,3,20.2125
+Mrs. Darwis (Hanne Youssef Razi) Touma,Mulher,Sobreviveu,29.0,3,15.2458
+Mrs. Gertrude Maybelle Thorne,Mulher,Sobreviveu,38.0,1,79.2
+Miss. Gladys Cherry,Mulher,Sobreviveu,30.0,1,86.5
+Miss. Anna Ward,Mulher,Sobreviveu,35.0,1,512.3292
+Mrs. (Lutie Davis) Parrish,Mulher,Sobreviveu,50.0,2,26.0
+Master. Edvin Rojj Felix Asplund,Homem,Morreu,3.0,3,31.3875
+Mr. Emil Taussig,Homem,Sobreviveu,52.0,1,79.65
+Mr. William Harrison,Homem,Morreu,40.0,1,0.0
+Miss. Delia Henry,Mulher,Morreu,21.0,3,7.75
+Mr. David Reeves,Homem,Morreu,36.0,2,10.5
+Mr. Ernesti Arvid Panula,Homem,Morreu,16.0,3,39.6875
+Mr. Ernst Ulrik Persson,Homem,Morreu,25.0,3,7.775
+Mrs. William Thompson (Edith Junkins) Graham,Mulher,Sobreviveu,58.0,1,153.4625
+Miss. Amelia Bissette,Mulher,Sobreviveu,35.0,1,135.6333
+Mr. Alexander Cairns,Homem,Morreu,28.0,1,31.0
+Mr. William Henry Tornquist,Homem,Morreu,25.0,3,0.0
+Mrs. (Elizabeth Anne Maidment) Mellinger,Mulher,Sobreviveu,41.0,2,19.5
+Mr. Charles H Natsch,Homem,Morreu,37.0,1,29.7
+Miss. Hanora Healy,Mulher,Sobreviveu,33.0,3,7.75
+Miss. Kornelia Theodosia Andrews,Mulher,Sobreviveu,63.0,1,77.9583
+Miss. Augusta Charlotta Lindblom,Mulher,Morreu,45.0,3,7.75
+Mr. Francis Parkes,Homem,Morreu,21.0,2,0.0
+Master. Eric Rice,Homem,Morreu,7.0,3,29.125
+Mrs. Stanton (Rosa Hunt) Abbott,Mulher,Sobreviveu,35.0,3,20.25
+Mr. Frank Duane,Homem,Morreu,65.0,3,7.75
+Mr. Nils Johan Goransson Olsson,Homem,Morreu,28.0,3,7.8542
+Mr. Alfons de Pelsmaeker,Homem,Morreu,16.0,3,9.5
+Mr. Edward Arthur Dorking,Homem,Morreu,19.0,3,8.05
+Mr. Richard William Smith,Homem,Morreu,57.0,1,26.0
+Mr. Ivan Stankovic,Homem,Morreu,33.0,3,8.6625
+Mr. Theodore de Mulder,Homem,Morreu,30.0,3,9.5
+Mr. Penko Naidenoff,Homem,Morreu,22.0,3,7.8958
+Mr. Masabumi Hosono,Homem,Morreu,42.0,2,13.0
+Miss. Kate Connolly,Mulher,Sobreviveu,22.0,3,7.75
+Miss. Ellen Barber,Mulher,Sobreviveu,26.0,1,78.85
+Mrs. Dickinson H (Helen Walton) Bishop,Mulher,Sobreviveu,19.0,1,91.0792
+Mr. Rene Jacques Levy,Homem,Morreu,36.0,2,12.875
+Miss. Aloisia Haas,Mulher,Sobreviveu,24.0,3,8.85
+Mr. Ivan Mineff,Homem,Morreu,24.0,3,7.8958
+Mr. Ervin G Lewy,Homem,Morreu,30.0,1,27.7208
+Mr. Mansour Hanna,Homem,Morreu,23.5,3,7.2292
+Miss. Helen Loraine Allison,Mulher,Sobreviveu,2.0,1,151.55
+Mr. Adolphe Saalfeld,Homem,Morreu,47.0,1,30.5
+Mrs. James (Helene DeLaudeniere Chaput) Baxter,Mulher,Sobreviveu,50.0,1,247.5208
+Miss. Anna Katherine Kelly,Mulher,Sobreviveu,20.0,3,7.75
+Mr. Bernard McCoy,Homem,Morreu,24.0,3,23.25
+Mr. William Cahoone Jr Johnson,Homem,Morreu,19.0,3,0.0
+Miss. Nora A Keane,Mulher,Sobreviveu,46.0,2,12.35
+Mr. Howard Hugh Williams,Homem,Morreu,28.0,3,8.05
+Master. Hudson Trevor Allison,Homem,Sobreviveu,0.92,1,151.55
+Miss. Margaret Fleming,Mulher,Sobreviveu,42.0,1,110.8833
+Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo) Penasco y Castellana,Mulher,Sobreviveu,17.0,1,108.9
+Mr. Samuel Abelson,Homem,Morreu,30.0,2,24.0
+Miss. Laura Mabel Francatelli,Mulher,Sobreviveu,30.0,1,56.9292
+Miss. Margaret Bechstein Hays,Mulher,Sobreviveu,24.0,1,83.1583
+Miss. Emily Borie Ryerson,Mulher,Sobreviveu,18.0,1,262.375
+Mrs. William (Anna Sylfven) Lahtinen,Mulher,Sobreviveu,26.0,2,26.0
+Mr. Ignjac Hendekovic,Homem,Morreu,28.0,3,7.8958
+Mr. Benjamin Hart,Homem,Morreu,43.0,2,26.25
+Miss. Helmina Josefina Nilsson,Mulher,Sobreviveu,26.0,3,7.8542
+Mrs. Sinai (Miriam Sternin) Kantor,Mulher,Sobreviveu,24.0,2,26.0
+Dr. Ernest Moraweck,Homem,Morreu,54.0,2,14.0
+Miss. Mary Natalie Wick,Mulher,Sobreviveu,31.0,1,164.8667
+Mrs. Frederic Oakley (Margaretta Corning Stone) Spedden,Mulher,Sobreviveu,40.0,1,134.5
+Mr. Samuel Dennis,Homem,Morreu,22.0,3,7.25
+Mr. Yoto Danoff,Homem,Morreu,27.0,3,7.8958
+Miss. Hilda Mary Slayter,Mulher,Sobreviveu,30.0,2,12.35
+Mrs. Albert Francis (Sylvia Mae Harbaugh) Caldwell,Mulher,Sobreviveu,22.0,2,29.0
+Mr. George John Jr Sage,Homem,Morreu,20.0,3,69.55
+Miss. Marie Grice Young,Mulher,Sobreviveu,36.0,1,135.6333
+Mr. Johan Hansen Nysveen,Homem,Morreu,61.0,3,6.2375
+Mrs. (Ada E Hall) Ball,Mulher,Sobreviveu,36.0,2,13.0
+Mrs. Frank John (Emily Alice Brown) Goldsmith,Mulher,Morreu,31.0,3,20.525
+Miss. Jean Gertrude Hippach,Mulher,Sobreviveu,16.0,1,57.9792
+Miss. Agnes McCoy,Mulher,Morreu,28.0,3,23.25
+Mr. Austen Partner,Homem,Morreu,45.5,1,28.5
+Mr. George Edward Graham,Homem,Sobreviveu,38.0,1,153.4625
+Mr. Leo Edmondus Vander Planke,Homem,Morreu,16.0,3,18.0
+Mrs. Henry William (Clara Heinsheimer) Frauenthal,Mulher,Sobreviveu,42.0,1,133.65
+Mr. Mitto Denkoff,Homem,Morreu,30.0,3,7.8958
+Mr. Thomas Clinton Pears,Homem,Sobreviveu,29.0,1,66.6
+Miss. Elizabeth Margaret Burns,Mulher,Sobreviveu,41.0,1,134.5
+Mr. Karl Edwart Dahl,Homem,Morreu,45.0,3,8.05
+Mr. Stephen Weart Blackwell,Homem,Morreu,45.0,1,35.5
+Master. Edmond Roger Navratil,Homem,Sobreviveu,2.0,2,26.0
+Miss. Alice Elizabeth Fortune,Mulher,Sobreviveu,24.0,1,263.0
+Mr. Erik Gustaf Collander,Homem,Morreu,28.0,2,13.0
+Mr. Charles Frederick Waddington Sedgwick,Homem,Morreu,25.0,2,13.0
+Mr. Stanley Hubert Fox,Homem,Morreu,36.0,2,13.0
+Miss. Amelia Brown,Mulher,Sobreviveu,24.0,2,13.0
+Miss. Marion Elsie Smith,Mulher,Sobreviveu,40.0,2,13.0
+Mrs. Thomas Henry (Mary E Finck) Davison,Mulher,Sobreviveu,34.0,3,16.1
+Master. William Loch Coutts,Homem,Sobreviveu,3.0,3,15.9
+Mr. Jovan Dimic,Homem,Morreu,42.0,3,8.6625
+Mr. Nils Martin Odahl,Homem,Morreu,23.0,3,9.225
+Mr. Fletcher Fellows Williams-Lambert,Homem,Morreu,43.0,1,35.0
+Mr. Tannous Elias,Homem,Morreu,15.0,3,7.2292
+Mr. Josef Arnold-Franchi,Homem,Morreu,25.0,3,17.8
+Mr. Wazli Yousif,Homem,Morreu,23.0,3,7.225
+Mr. Leo Peter Vanden Steen,Homem,Morreu,28.0,3,9.5
+Miss. Elsie Edith Bowerman,Mulher,Sobreviveu,22.0,1,55.0
+Miss. Annie Clemmer Funk,Mulher,Sobreviveu,38.0,2,13.0
+Miss. Mary McGovern,Mulher,Sobreviveu,22.0,3,7.8792
+Miss. Helen Mary Mockler,Mulher,Sobreviveu,23.0,3,7.8792
+Mr. Wilhelm Skoog,Homem,Morreu,40.0,3,27.9
+Mr. Sebastiano del Carlo,Homem,Morreu,29.0,2,27.7208
+Mrs. (Catherine David) Barbara,Mulher,Morreu,45.0,3,14.4542
+Mr. Adola Asim,Homem,Morreu,35.0,3,7.05
+Mr. Thomas O'Brien,Homem,Morreu,27.0,3,15.5
+Mr. Mauritz Nils Martin Adahl,Homem,Morreu,30.0,3,7.25
+Mrs. Frank Manley (Anna Sophia Atkinson) Warren,Mulher,Sobreviveu,60.0,1,75.25
+Mrs. (Mantoura Boulos) Moussa,Mulher,Sobreviveu,35.0,3,7.2292
+Miss. Annie Jermyn,Mulher,Sobreviveu,22.0,3,7.75
+Mme. Leontine Pauline Aubart,Mulher,Sobreviveu,24.0,1,69.3
+Mr. George Achilles Harder,Homem,Sobreviveu,25.0,1,55.4417
+Mr. Jakob Alfred Wiklund,Homem,Morreu,18.0,3,6.4958
+Mr. William Thomas Beavan,Homem,Morreu,19.0,3,8.05
+Mr. Sante Ringhini,Homem,Morreu,22.0,1,135.6333
+Miss. Stina Viola Palsson,Mulher,Sobreviveu,3.0,3,21.075
+Mrs. Edgar Joseph (Leila Saks) Meyer,Mulher,Sobreviveu,25.0,1,82.1708
+Miss. Aurora Adelia Landergren,Mulher,Sobreviveu,22.0,3,7.25
+Mr. Harry Elkins Widener,Homem,Sobreviveu,27.0,1,211.5
+Mr. Tannous Betros,Homem,Morreu,20.0,3,4.0125
+Mr. Karl Gideon Gustafsson,Homem,Morreu,19.0,3,7.775
+Miss. Rosalie Bidois,Mulher,Sobreviveu,42.0,1,227.525
+Miss. Maria Nakid,Mulher,Sobreviveu,1.0,3,15.7417
+Mr. Juho Tikkanen,Homem,Morreu,32.0,3,7.925
+Mrs. Alexander Oskar (Mary Aline Towner) Holverson,Mulher,Sobreviveu,35.0,1,52.0
+Mr. Vasil Plotcharsky,Homem,Morreu,27.0,3,7.8958
+Mr. Charles Henry Davies,Homem,Morreu,18.0,2,73.5
+Master. Sidney Leonard Goodwin,Homem,Morreu,1.0,3,46.9
+Miss. Kate Buss,Mulher,Sobreviveu,36.0,2,13.0
+Mr. Matthew Sadlier,Homem,Morreu,19.0,3,7.7292
+Miss. Bertha Lehmann,Mulher,Sobreviveu,17.0,2,12.0
+Mr. William Ernest Carter,Homem,Sobreviveu,36.0,1,120.0
+Mr. Carl Olof Jansson,Homem,Morreu,21.0,3,7.7958
+Mr. Johan Birger Gustafsson,Homem,Morreu,28.0,3,7.925
+Miss. Marjorie Newell,Mulher,Sobreviveu,23.0,1,113.275
+Mrs. Hjalmar (Agnes Charlotta Bengtsson) Sandstrom,Mulher,Sobreviveu,24.0,3,16.7
+Mr. Erik Johansson,Homem,Morreu,22.0,3,7.7958
+Miss. Elina Olsson,Mulher,Sobreviveu,31.0,3,7.8542
+Mr. Peter David McKane,Homem,Morreu,46.0,2,26.0
+Dr. Alfred Pain,Homem,Morreu,23.0,2,10.5
+Mrs. William H (Jessie L) Trout,Mulher,Sobreviveu,28.0,2,12.65
+Mr. Juha Niskanen,Homem,Morreu,39.0,3,7.925
+Mr. John Adams,Homem,Morreu,26.0,3,8.05
+Miss. Mari Aina Jussila,Mulher,Morreu,21.0,3,9.825
+Mr. Pekka Pietari Hakkarainen,Homem,Morreu,28.0,3,15.85
+Miss. Marija Oreskovic,Mulher,Morreu,20.0,3,8.6625
+Mr. Shadrach Gale,Homem,Morreu,34.0,2,21.0
+Mr. Carl/Charles Peter Widegren,Homem,Morreu,51.0,3,7.75
+Master. William Rowe Richards,Homem,Sobreviveu,3.0,2,18.75
+Mr. Hans Martin Monsen Birkeland,Homem,Morreu,21.0,3,7.775
+Miss. Ida Lefebre,Mulher,Morreu,3.0,3,25.4667
+Mr. Todor Sdycoff,Homem,Morreu,42.0,3,7.8958
+Mr. Henry Hart,Homem,Morreu,27.0,3,6.8583
+Miss. Daisy E Minahan,Mulher,Sobreviveu,33.0,1,90.0
+Mr. Alfred Fleming Cunningham,Homem,Morreu,22.0,2,0.0
+Mr. Johan Julian Sundman,Homem,Morreu,44.0,3,7.925
+Mrs. Thomas (Annie Louise Rowley) Meek,Mulher,Morreu,32.0,3,8.05
+Mrs. James Vivian (Lulu Thorne Christian) Drew,Mulher,Sobreviveu,34.0,2,32.5
+Miss. Lyyli Karoliina Silven,Mulher,Sobreviveu,18.0,2,13.0
+Mr. William John Matthews,Homem,Morreu,30.0,2,13.0
+Miss. Catharina Van Impe,Mulher,Morreu,10.0,3,24.15
+Mr. David Charters,Homem,Morreu,21.0,3,7.7333
+Mr. Leo Zimmerman,Homem,Morreu,29.0,3,7.875
+Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren) Danbom,Mulher,Morreu,28.0,3,14.4
+Mr. Viktor Richard Rosblom,Homem,Morreu,18.0,3,20.2125
+Mr. Phillippe Wiseman,Homem,Morreu,54.0,3,7.25
+Mrs. Charles V (Ada Maria Winfield) Clarke,Mulher,Sobreviveu,28.0,2,26.0
+Miss. Kate Florence Phillips,Mulher,Sobreviveu,19.0,2,26.0
+Mr. James Flynn,Homem,Morreu,28.0,3,7.75
+Mr. Berk (Berk Trembisky) Pickard,Homem,Morreu,32.0,3,8.05
+Mr. Mauritz Hakan Bjornstrom-Steffansson,Homem,Sobreviveu,28.0,1,26.55
+Mrs. Percival (Florence Kate White) Thorneycroft,Mulher,Sobreviveu,33.0,3,16.1
+Mrs. Charles Alexander (Alice Adelaide Slow) Louch,Mulher,Sobreviveu,42.0,2,26.0
+Mr. Nikolai Erland Kallio,Homem,Morreu,17.0,3,7.125
+Mr. William Baird Silvey,Homem,Sobreviveu,50.0,1,55.9
+Miss. Lucile Polk Carter,Mulher,Sobreviveu,14.0,1,120.0
+Miss. Doolina Margaret Ford,Mulher,Morreu,21.0,3,34.375
+Mrs. Sidney (Emily Hocking) Richards,Mulher,Sobreviveu,24.0,2,18.75
+Mr. Mark Fortune,Homem,Morreu,64.0,1,263.0
+Mr. Johan Henrik Johannesson Kvillner,Homem,Morreu,31.0,2,10.5
+Mrs. Benjamin (Esther Ada Bloomfield) Hart,Mulher,Sobreviveu,45.0,2,26.25
+Mr. Leon Hampe,Homem,Morreu,20.0,3,9.5
+Mr. Johan Emil Petterson,Homem,Morreu,25.0,3,7.775
+Ms. Encarnacion Reynaldo,Mulher,Sobreviveu,28.0,2,13.0
+Mr. Bernt Johannesen-Bratthammer,Homem,Morreu,29.0,3,8.1125
+Master. Washington Dodge,Homem,Sobreviveu,4.0,1,81.8583
+Miss. Madeleine Violet Mellinger,Mulher,Sobreviveu,13.0,2,19.5
+Mr. Frederic Kimber Seward,Homem,Sobreviveu,34.0,1,26.55
+Miss. Marie Catherine Baclini,Mulher,Sobreviveu,5.0,3,19.2583
+Major. Arthur Godfrey Peuchen,Homem,Sobreviveu,52.0,1,30.5
+Mr. Edwy Arthur West,Homem,Morreu,36.0,2,27.75
+Mr. Ingvald Olai Olsen Hagland,Homem,Morreu,28.0,3,19.9667
+Mr. Benjamin Laventall Foreman,Homem,Morreu,30.0,1,27.75
+Mr. Samuel L Goldenberg,Homem,Sobreviveu,49.0,1,89.1042
+Mr. Joseph Peduzzi,Homem,Morreu,24.0,3,8.05
+Mr. Ivan Jalsevac,Homem,Morreu,29.0,3,7.8958
+Mr. Francis Davis Millet,Homem,Morreu,65.0,1,26.55
+Mrs. Frederick R (Marion) Kenyon,Mulher,Sobreviveu,41.0,1,51.8625
+Miss. Ellen Toomey,Mulher,Sobreviveu,50.0,2,10.5
+Mr. Maurice O'Connor,Homem,Morreu,17.0,3,7.75
+Mr. Harry Anderson,Homem,Sobreviveu,48.0,1,26.55
+Mr. William Morley,Homem,Morreu,34.0,3,8.05
+Mr. Arthur H Gee,Homem,Morreu,47.0,1,38.5
+Mr. Jacob Christian Milling,Homem,Morreu,48.0,2,13.0
+Mr. Simon Maisner,Homem,Morreu,34.0,3,8.05
+Mr. Manuel Estanslas Goncalves,Homem,Morreu,38.0,3,7.05
+Mr. William Campbell,Homem,Morreu,21.0,2,0.0
+Mr. John Montgomery Smart,Homem,Morreu,56.0,1,26.55
+Mr. James Scanlan,Homem,Morreu,22.0,3,7.725
+Miss. Helene Barbara Baclini,Mulher,Sobreviveu,0.75,3,19.2583
+Mr. Arthur Keefe,Homem,Morreu,39.0,3,7.25
+Mr. Luka Cacic,Homem,Morreu,38.0,3,8.6625
+Mrs. Edwy Arthur (Ada Mary Worth) West,Mulher,Sobreviveu,33.0,2,27.75
+Mrs. Amin S (Marie Marthe Thuillard) Jerwan,Mulher,Sobreviveu,23.0,2,13.7917
+Miss. Ida Sofia Strandberg,Mulher,Morreu,22.0,3,9.8375
+Mr. George Quincy Clifford,Homem,Morreu,40.0,1,52.0
+Mr. Peter Henry Renouf,Homem,Morreu,34.0,2,21.0
+Mr. Lewis Richard Braund,Homem,Morreu,29.0,3,7.0458
+Mr. Nils August Karlsson,Homem,Morreu,22.0,3,7.5208
+Miss. Hildur E Hirvonen,Mulher,Sobreviveu,2.0,3,12.2875
+Master. Harold Victor Goodwin,Homem,Morreu,9.0,3,46.9
+Mr. Anthony Wood Frost,Homem,Morreu,37.0,2,0.0
+Mr. Richard Henry Rouse,Homem,Morreu,50.0,3,8.05
+Mrs. (Hedwig) Turkula,Mulher,Morreu,63.0,3,9.5875
+Mr. Dickinson H Bishop,Homem,Sobreviveu,25.0,1,91.0792
+Miss. Jeannie Lefebre,Mulher,Morreu,8.0,3,25.4667
+Mrs. Frederick Maxfield (Jane Anne Forby) Hoyt,Mulher,Sobreviveu,35.0,1,90.0
+Mr. Edward Austin Kent,Homem,Morreu,58.0,1,29.7
+Mr. Francis William Somerton,Homem,Morreu,30.0,3,8.05
+Master. Eden Leslie Coutts,Homem,Sobreviveu,9.0,3,15.9
+Mr. Konrad Mathias Reiersen Hagland,Homem,Morreu,19.0,3,19.9667
+Mr. Einar Windelov,Homem,Morreu,21.0,3,7.25
+Mr. Harry Markland Molson,Homem,Morreu,55.0,1,30.5
+Mr. Ramon Artagaveytia,Homem,Morreu,71.0,1,49.5042
+Mr. Edward Roland Stanley,Homem,Morreu,21.0,3,8.05
+Mr. Gerious Yousseff,Homem,Morreu,26.0,3,14.4583
+Miss. Elizabeth Mussey Eustis,Mulher,Sobreviveu,54.0,1,78.2667
+Mr. Frederick William Shellard,Homem,Morreu,55.0,3,15.1
+Mrs. Hudson J C (Bessie Waldo Daniels) Allison,Mulher,Sobreviveu,25.0,1,151.55
+Mr. Olof Svensson,Homem,Morreu,24.0,3,7.7958
+Mr. Petar Calic,Homem,Morreu,17.0,3,8.6625
+Miss. Mary Canavan,Mulher,Morreu,21.0,3,7.75
+Miss. Bridget Mary O'Sullivan,Mulher,Morreu,21.0,3,7.6292
+Miss. Kristina Sofia Laitinen,Mulher,Morreu,37.0,3,9.5875
+Miss. Roberta Maioni,Mulher,Sobreviveu,16.0,1,86.5
+Mr. Victor de Satode Penasco y Castellana,Homem,Morreu,18.0,1,108.9
+Mrs. Frederick Charles (Jane Richards) Quick,Mulher,Sobreviveu,33.0,2,26.0
+Mr. George Bradley,Homem,Sobreviveu,37.0,1,26.55
+Mr. Henry Margido Olsen,Homem,Morreu,28.0,3,22.525
+Mr. Fang Lang,Homem,Morreu,26.0,3,56.4958
+Mr. Eugene Patrick Daly,Homem,Morreu,29.0,3,7.75
+Mr. James Webber,Homem,Morreu,66.0,3,8.05
+Mr. James Robert McGough,Homem,Sobreviveu,36.0,1,26.2875
+Mrs. Martin (Elizabeth L. Barrett) Rothschild,Mulher,Sobreviveu,54.0,1,59.4
+Mr. Satio Coleff,Homem,Morreu,24.0,3,7.4958
+Mr. William Anderson Walker,Homem,Morreu,47.0,1,34.0208
+Mrs. (Amelia Milley) Lemore,Mulher,Sobreviveu,34.0,2,10.5
+Mr. Patrick Ryan,Homem,Morreu,30.0,3,24.15
+Mrs. William A (Florence Agnes Hughes) Angle,Mulher,Sobreviveu,36.0,2,26.0
+Mr. Stefo Pavlovic,Homem,Morreu,32.0,3,7.8958
+Miss. Anne Perreault,Mulher,Sobreviveu,30.0,1,93.5
+Mr. Janko Vovk,Homem,Morreu,22.0,3,7.8958
+Mr. Sarkis Lahoud,Homem,Morreu,35.0,3,7.225
+Mrs. Louis Albert (Ida Sophia Fischer) Hippach,Mulher,Sobreviveu,44.0,1,57.9792
+Mr. Fared Kassem,Homem,Morreu,18.0,3,7.2292
+Mr. James Farrell,Homem,Morreu,40.5,3,7.75
+Miss. Lucy Ridsdale,Mulher,Sobreviveu,50.0,2,10.5
+Mr. John Farthing,Homem,Sobreviveu,49.0,1,221.7792
+Mr. Johan Werner Salonen,Homem,Morreu,39.0,3,7.925
+Mr. Richard George Hocking,Homem,Morreu,23.0,2,11.5
+Miss. Phyllis May Quick,Mulher,Sobreviveu,2.0,2,26.0
+Mr. Nakli Toufik,Homem,Morreu,17.0,3,7.2292
+Mr. Joseph Jr Elias,Homem,Morreu,17.0,3,7.2292
+Mrs. Catherine (Catherine Rizk) Peter,Mulher,Sobreviveu,24.0,3,22.3583
+Miss. Marija Cacic,Mulher,Sobreviveu,30.0,3,8.6625
+Miss. Eva Miriam Hart,Mulher,Sobreviveu,7.0,2,26.25
+Major. Archibald Willingham Butt,Homem,Sobreviveu,45.0,1,26.55
+Miss. Bertha LeRoy,Mulher,Sobreviveu,30.0,1,106.425
+Mr. Samuel Beard Risien,Homem,Morreu,69.0,3,14.5
+Miss. Hedwig Margaritha Frolicher,Mulher,Sobreviveu,22.0,1,49.5
+Miss. Harriet R Crosby,Mulher,Sobreviveu,36.0,1,71.0
+Miss. Ingeborg Constanzia Andersson,Mulher,Morreu,9.0,3,31.275
+Miss. Sigrid Elisabeth Andersson,Mulher,Morreu,11.0,3,31.275
+Mr. Edward Beane,Homem,Morreu,32.0,2,26.0
+Mr. Walter Donald Douglas,Homem,Sobreviveu,50.0,1,106.425
+Mr. Arthur Ernest Nicholson,Homem,Morreu,64.0,1,26.0
+Mrs. Edward (Ethel Clarke) Beane,Mulher,Sobreviveu,19.0,2,26.0
+Mr. Julian Padro y Manent,Homem,Morreu,27.0,2,13.8625
+Mr. Frank John Goldsmith,Homem,Morreu,33.0,3,20.525
+Master. John Morgan Jr Davies,Homem,Sobreviveu,8.0,2,36.75
+Mr. John Borland Jr Thayer,Homem,Morreu,17.0,1,110.8833
+Mr. Percival James R Sharp,Homem,Morreu,27.0,2,26.0
+Mr. Timothy O'Brien,Homem,Morreu,21.0,3,7.8292
+Mr. Fahim Leeni,Homem,Morreu,22.0,3,7.225
+Miss. Velin Ohman,Mulher,Sobreviveu,22.0,3,7.775
+Mr. George Wright,Homem,Morreu,62.0,1,26.55
+Lady. (Lucille Christiana Sutherland)Duff Gordon,Mulher,Sobreviveu,48.0,1,39.6
+Mr. Victor Robbins,Homem,Morreu,45.0,1,227.525
+Mrs. Emil (Tillie Mandelbaum) Taussig,Mulher,Sobreviveu,39.0,1,79.65
+Mrs. Guillaume Joseph (Emma) de Messemaeker,Mulher,Sobreviveu,36.0,3,17.4
+Mr. Thomas Rowan Morrow,Homem,Morreu,30.0,3,7.75
+Mr. Husein Sivic,Homem,Morreu,40.0,3,7.8958
+Mr. Robert Douglas Norman,Homem,Morreu,28.0,2,13.5
+Mr. John Simmons,Homem,Morreu,40.0,3,8.05
+Miss. (Marion Ogden) Meanwell,Mulher,Morreu,62.0,3,8.05
+Mr. Alfred J Davies,Homem,Morreu,24.0,3,24.15
+Mr. Ilia Stoytcheff,Homem,Morreu,19.0,3,7.8958
+Mrs. Nils (Alma Cornelia Berglund) Palsson,Mulher,Sobreviveu,29.0,3,21.075
+Mr. Tannous Doharr,Homem,Morreu,28.0,3,7.2292
+Mr. Carl Jonsson,Homem,Morreu,32.0,3,7.8542
+Mr. George Harris,Homem,Morreu,62.0,2,10.5
+Mrs. Edward Dale (Charlotte Lamson) Appleton,Mulher,Sobreviveu,53.0,1,51.4792
+Mr. John Irwin Flynn,Homem,Sobreviveu,36.0,1,26.3875
+Miss. Mary Kelly,Mulher,Sobreviveu,22.0,3,7.75
+Mr. Alfred George John Rush,Homem,Morreu,16.0,3,8.05
+Mr. George Patchett,Homem,Morreu,19.0,3,14.5
+Miss. Ethel Garside,Mulher,Sobreviveu,34.0,2,13.0
+Mrs. William Baird (Alice Munger) Silvey,Mulher,Sobreviveu,39.0,1,55.9
+Mrs. Joseph (Maria Elias) Caram,Mulher,Morreu,18.0,3,14.4583
+Mr. Eiriik Jussila,Homem,Morreu,32.0,3,7.925
+Miss. Julie Rachel Christy,Mulher,Sobreviveu,25.0,2,30.0
+Mrs. John Borland (Marian Longstreth Morris) Thayer,Mulher,Sobreviveu,39.0,1,110.8833
+Mr. William James Downton,Homem,Morreu,54.0,2,26.0
+Mr. John Hugo Ross,Homem,Morreu,36.0,1,40.125
+Mr. Uscher Paulner,Homem,Morreu,16.0,3,8.7125
+Miss. Ruth Taussig,Mulher,Sobreviveu,18.0,1,79.65
+Mr. John Denzil Jarvis,Homem,Morreu,47.0,2,15.0
+Mr. Maxmillian Frolicher-Stehli,Homem,Morreu,60.0,1,79.2
+Mr. Eliezer Gilinski,Homem,Morreu,22.0,3,8.05
+Mr. Joseph Murdlin,Homem,Morreu,22.0,3,8.05
+Mr. Matti Rintamaki,Homem,Morreu,35.0,3,7.125
+Mrs. Walter Bertram (Martha Eustis) Stephenson,Mulher,Sobreviveu,52.0,1,78.2667
+Mr. William James Elsbury,Homem,Morreu,47.0,3,7.25
+Miss. Mary Bourke,Mulher,Morreu,40.0,3,7.75
+Mr. John Henry Chapman,Homem,Morreu,37.0,2,26.0
+Mr. Jean Baptiste Van Impe,Homem,Morreu,36.0,3,24.15
+Miss. Jessie Wills Leitch,Mulher,Sobreviveu,31.0,2,33.0
+Mr. Alfred Johnson,Homem,Morreu,49.0,3,0.0
+Mr. Hanna Boulos,Homem,Morreu,18.0,3,7.225
+Sir. Cosmo Edmund Duff Gordon,Homem,Sobreviveu,49.0,1,56.9292
+Mrs. Sidney Samuel (Amy Frances Christy) Jacobsohn,Mulher,Sobreviveu,24.0,2,27.0
+Mr. Petco Slabenoff,Homem,Morreu,42.0,3,7.8958
+Mr. Charles H Harrington,Homem,Morreu,37.0,1,42.4
+Mr. Ernst William Torber,Homem,Morreu,44.0,3,8.05
+Mr. Harry Homer,Homem,Sobreviveu,35.0,1,26.55
+Mr. Edvard Bengtsson Lindell,Homem,Morreu,36.0,3,15.55
+Mr. Milan Karaic,Homem,Morreu,30.0,3,7.8958
+Mr. Robert Williams Daniel,Homem,Morreu,27.0,1,30.5
+Mrs. Joseph (Juliette Marie Louise Lafargue) Laroche,Mulher,Sobreviveu,22.0,2,41.5792
+Miss. Elizabeth W Shutes,Mulher,Sobreviveu,40.0,1,153.4625
+Mrs. Anders Johan (Alfrida Konstantia Brogren) Andersson,Mulher,Morreu,39.0,3,31.275
+Mr. Jose Neto Jardin,Homem,Morreu,21.0,3,7.05
+Miss. Margaret Jane Murphy,Mulher,Morreu,18.0,3,15.5
+Mr. John Horgan,Homem,Morreu,22.0,3,7.75
+Mr. William Alfred Brocklebank,Homem,Morreu,35.0,3,8.05
+Miss. Alice Herman,Mulher,Sobreviveu,24.0,2,65.0
+Mr. Ernst Gilbert Danbom,Homem,Morreu,34.0,3,14.4
+Mrs. William Arthur (Cordelia K Stanlick) Lobb,Mulher,Morreu,26.0,3,16.1
+Miss. Marion Louise Becker,Mulher,Sobreviveu,4.0,2,39.0
+Mr. Lawrence Gavey,Homem,Morreu,26.0,2,10.5
+Mr. Antoni Yasbeck,Homem,Morreu,27.0,3,14.4542
+Mr. Edwin Nelson Jr Kimball,Homem,Sobreviveu,42.0,1,52.5542
+Mr. Sahid Nakid,Homem,Morreu,20.0,3,15.7417
+Mr. Henry Damsgaard Hansen,Homem,Morreu,21.0,3,7.8542
+Mr. David John Bowen,Homem,Morreu,21.0,3,16.1
+Mr. Frederick Sutton,Homem,Morreu,61.0,1,32.3208
+Rev. Charles Leonard Kirkland,Homem,Morreu,57.0,2,12.35
+Miss. Gretchen Fiske Longley,Mulher,Sobreviveu,21.0,1,77.9583
+Mr. Guentcho Bostandyeff,Homem,Morreu,26.0,3,7.8958
+Mr. Patrick D O'Connell,Homem,Morreu,18.0,3,7.7333
+Mr. Algernon Henry Wilson Barkworth,Homem,Morreu,80.0,1,30.0
+Mr. Johan Svensson Lundahl,Homem,Morreu,51.0,3,7.0542
+Dr. Max Stahelin-Maeglin,Homem,Morreu,32.0,1,30.5
+Mr. William Henry Marsh Parr,Homem,Morreu,30.0,1,0.0
+Miss. Mabel Skoog,Mulher,Morreu,9.0,3,27.9
+Miss. Mary Davis,Mulher,Sobreviveu,28.0,2,13.0
+Mr. Antti Gustaf Leinonen,Homem,Morreu,32.0,3,7.925
+Mr. Harvey Collyer,Homem,Morreu,31.0,2,26.25
+Mrs. Juha (Maria Emilia Ojala) Panula,Mulher,Morreu,41.0,3,39.6875
+Mr. Percival Thorneycroft,Homem,Morreu,37.0,3,16.1
+Mr. Hans Peder Jensen,Homem,Morreu,20.0,3,7.8542
+Mlle. Emma Sagesser,Mulher,Sobreviveu,24.0,1,69.3
+Miss. Margit Elizabeth Skoog,Mulher,Morreu,2.0,3,27.9
+Mr. Choong Foo,Homem,Morreu,32.0,3,56.4958
+Miss. Eugenie Baclini,Mulher,Sobreviveu,0.75,3,19.2583
+Mr. Henry Sleeper Harper,Homem,Sobreviveu,48.0,1,76.7292
+Mr. Liudevit Cor,Homem,Morreu,19.0,3,7.8958
+Col. Oberst Alfons Simonius-Blumer,Homem,Morreu,56.0,1,35.5
+Mr. Edward Willey,Homem,Morreu,21.0,3,7.55
+Miss. Amy Zillah Elsie Stanley,Mulher,Sobreviveu,23.0,3,7.55
+Mr. Mito Mitkoff,Homem,Morreu,23.0,3,7.8958
+Miss. Elsie Doling,Mulher,Sobreviveu,18.0,2,23.0
+Mr. Johannes Halvorsen Kalvik,Homem,Morreu,21.0,3,8.4333
+Miss. Hanora O'Leary,Mulher,Sobreviveu,16.0,3,7.8292
+Miss. Hanora Hegarty,Mulher,Sobreviveu,18.0,3,6.75
+Mr. Leonard Mark Hickman,Homem,Morreu,24.0,2,73.5
+Mr. Alexander Radeff,Homem,Morreu,27.0,3,7.8958
+Mrs. John (Catherine) Bourke,Mulher,Sobreviveu,32.0,3,15.5
+Mr. George Floyd Eitemiller,Homem,Morreu,23.0,2,13.0
+Mr. Arthur Webster Newell,Homem,Morreu,58.0,1,113.275
+Dr. Henry William Frauenthal,Homem,Sobreviveu,50.0,1,133.65
+Mr. Mohamed Badt,Homem,Morreu,40.0,3,7.225
+Mr. Edward Pomeroy Colley,Homem,Morreu,47.0,1,25.5875
+Mr. Peju Coleff,Homem,Morreu,36.0,3,7.4958
+Mr. Eino William Lindqvist,Homem,Morreu,20.0,3,7.925
+Mr. Lewis Hickman,Homem,Morreu,32.0,2,73.5
+Mr. Reginald Fenton Butler,Homem,Morreu,25.0,2,13.0
+Mr. Knud Paust Rommetvedt,Homem,Morreu,49.0,3,7.775
+Mr. Jacob Cook,Homem,Morreu,43.0,3,8.05
+Mrs. Elmer Zebley (Juliet Cummins Wright) Taylor,Mulher,Sobreviveu,48.0,1,52.0
+Mrs. Thomas William Solomon (Elizabeth Catherine Ford) Brown,Mulher,Sobreviveu,40.0,2,39.0
+Mr. Thornton Davidson,Homem,Morreu,31.0,1,52.0
+Mr. Henry Michael Mitchell,Homem,Morreu,70.0,2,10.5
+Mr. Charles Wilhelms,Homem,Morreu,31.0,2,13.0
+Mr. Ennis Hastings Watson,Homem,Morreu,19.0,2,0.0
+Mr. Gustaf Hjalmar Edvardsson,Homem,Morreu,18.0,3,7.775
+Mr. Frederick Charles Sawyer,Homem,Morreu,24.5,3,8.05
+Miss. Anna Sofia Turja,Mulher,Sobreviveu,18.0,3,9.8417
+Mrs. Frederick (Augusta Tyler) Goodwin,Mulher,Morreu,43.0,3,46.9
+Mr. Thomas Drake Martinez Cardeza,Homem,Sobreviveu,36.0,1,512.3292
+Miss. Katie Peters,Mulher,Morreu,28.0,3,8.1375
+Mr. Hammad Hassab,Homem,Sobreviveu,27.0,1,76.7292
+Mr. Thor Anderson Olsvigen,Homem,Morreu,20.0,3,9.225
+Mr. Charles Edward Goodwin,Homem,Morreu,14.0,3,46.9
+Mr. Thomas William Solomon Brown,Homem,Morreu,60.0,2,39.0
+Mr. Joseph Philippe Lemercier Laroche,Homem,Morreu,25.0,2,41.5792
+Mr. Jaako Arnold Panula,Homem,Morreu,14.0,3,39.6875
+Mr. Branko Dakic,Homem,Morreu,19.0,3,10.1708
+Mr. Eberhard Thelander Fischer,Homem,Morreu,18.0,3,7.7958
+Miss. Georgette Alexandra Madill,Mulher,Sobreviveu,15.0,1,211.3375
+Mr. Albert Adrian Dick,Homem,Sobreviveu,31.0,1,57.0
+Miss. Manca Karun,Mulher,Sobreviveu,4.0,3,13.4167
+Mr. Ali Lam,Homem,Morreu,37.0,3,56.4958
+Mr. Khalil Saad,Homem,Morreu,25.0,3,7.225
+Col. John Weir,Homem,Morreu,60.0,1,26.55
+Mr. Charles Henry Chapman,Homem,Morreu,52.0,2,13.5
+Mr. James Kelly,Homem,Morreu,44.0,3,8.05
+Miss. Katherine Mullens,Mulher,Sobreviveu,19.0,3,7.7333
+Mr. John Borland Thayer,Homem,Sobreviveu,49.0,1,110.8833
+Mr. Adolf Mathias Nicolai Olsen Humblen,Homem,Morreu,42.0,3,7.65
+Mrs. John Jacob (Madeleine Talmadge Force) Astor,Mulher,Sobreviveu,18.0,1,227.525
+Mr. Spencer Victor Silverthorne,Homem,Sobreviveu,35.0,1,26.2875
+Miss. Saiide Barbara,Mulher,Sobreviveu,18.0,3,14.4542
+Mr. Martin Gallagher,Homem,Morreu,25.0,3,7.7417
+Mr. Henrik Juul Hansen,Homem,Morreu,26.0,3,7.8542
+Mr. Henry Samuel Morley,Homem,Morreu,39.0,2,26.0
+Mrs. Florence Kelly,Mulher,Sobreviveu,45.0,2,13.5
+Mr. Edward Pennington Calderhead,Homem,Sobreviveu,42.0,1,26.2875
+Miss. Alice Cleaver,Mulher,Sobreviveu,22.0,1,151.55
+Master. Halim Gonios Moubarek,Homem,Sobreviveu,4.0,3,15.2458
+Mlle. Berthe Antonine Mayne,Mulher,Sobreviveu,24.0,1,49.5042
+Mr. Herman Klaber,Homem,Sobreviveu,41.0,1,26.55
+Mr. Elmer Zebley Taylor,Homem,Sobreviveu,48.0,1,52.0
+Mr. August Viktor Larsson,Homem,Morreu,29.0,3,9.4833
+Mr. Samuel Greenberg,Homem,Morreu,52.0,2,13.0
+Mr. Peter Andreas Lauritz Andersen Soholt,Homem,Morreu,19.0,3,7.65
+Miss. Caroline Louise Endres,Mulher,Sobreviveu,38.0,1,227.525
+Miss. Edwina Celia Troutt,Mulher,Sobreviveu,27.0,2,10.5
+Mr. Malkolm Joackim Johnson,Homem,Morreu,33.0,3,7.775
+Miss. Annie Jessie Harper,Mulher,Sobreviveu,6.0,2,33.0
+Mr. Svend Lauritz Jensen,Homem,Morreu,17.0,3,7.0542
+Mr. William Henry Gillespie,Homem,Morreu,34.0,2,13.0
+Mr. Henry Price Hodges,Homem,Morreu,50.0,2,13.0
+Mr. Norman Campbell Chambers,Homem,Sobreviveu,27.0,1,53.1
+Mr. Luka Oreskovic,Homem,Morreu,20.0,3,8.6625
+Mrs. Peter Henry (Lillian Jefferys) Renouf,Mulher,Sobreviveu,30.0,2,21.0
+Miss. Margareth Mannion,Mulher,Sobreviveu,28.0,3,7.7375
+Mr. Kurt Arnold Gottfrid Bryhl,Homem,Morreu,25.0,2,26.0
+Miss. Pieta Sofia Ilmakangas,Mulher,Morreu,25.0,3,7.925
+Miss. Elisabeth Walton Allen,Mulher,Sobreviveu,29.0,1,211.3375
+Mr. Houssein G N Hassan,Homem,Sobreviveu,11.0,3,18.7875
+Mr. Robert J Knight,Homem,Morreu,41.0,2,0.0
+Mr. William John Berriman,Homem,Morreu,23.0,2,13.0
+Mr. Moses Aaron Troupiansky,Homem,Morreu,23.0,2,13.0
+Mr. Leslie Williams,Homem,Morreu,28.5,3,16.1
+Mrs. Edward (Margaret Ann Watson) Ford,Mulher,Morreu,48.0,3,34.375
+Mr. Gustave J Lesurer,Homem,Sobreviveu,35.0,1,512.3292
+Mr. Kanio Ivanoff,Homem,Morreu,20.0,3,7.8958
+Mr. Minko Nankoff,Homem,Morreu,32.0,3,7.8958
+Mr. Walter James Hawksford,Homem,Morreu,45.0,1,30.0
+Mr. Tyrell William Cavendish,Homem,Sobreviveu,36.0,1,78.85
+Miss. Susan Parker Ryerson,Mulher,Sobreviveu,21.0,1,262.375
+Mr. Neal McNamee,Homem,Morreu,24.0,3,16.1
+Mr. Juho Stranden,Homem,Morreu,31.0,3,7.925
+Capt. Edward Gifford Crosby,Homem,Morreu,70.0,1,71.0
+Mr. Rossmore Edward Abbott,Homem,Morreu,16.0,3,20.25
+Miss. Anna Sinkkonen,Mulher,Sobreviveu,30.0,2,13.0
+Mr. Daniel Warner Marvin,Homem,Morreu,19.0,1,53.1
+Mr. Michael Connaghton,Homem,Morreu,31.0,3,7.75
+Miss. Joan Wells,Mulher,Sobreviveu,4.0,2,23.0
+Master. Meier Moor,Homem,Sobreviveu,6.0,3,12.475
+Mr. Johannes Joseph Vande Velde,Homem,Morreu,33.0,3,9.5
+Mr. Lalio Jonkoff,Homem,Morreu,23.0,3,7.8958
+Mrs. Samuel (Jane Laver) Herman,Mulher,Sobreviveu,48.0,2,65.0
+Master. Viljo Hamalainen,Homem,Sobreviveu,0.67,2,14.5
+Mr. August Sigfrid Carlsson,Homem,Morreu,28.0,3,7.7958
+Mr. Percy Andrew Bailey,Homem,Morreu,18.0,2,11.5
+Mr. Thomas Leonard Theobald,Homem,Morreu,34.0,3,8.05
+the Countess. of (Lucy Noel Martha Dyer-Edwards) Rothes,Mulher,Sobreviveu,33.0,1,86.5
+Mr. John Garfirth,Homem,Morreu,23.0,3,14.5
+Mr. Iisakki Antino Aijo Nirva,Homem,Morreu,41.0,3,7.125
+Mr. Hanna Assi Barah,Homem,Morreu,20.0,3,7.2292
+Mrs. William Ernest (Lucile Polk) Carter,Mulher,Sobreviveu,36.0,1,120.0
+Mr. Hans Linus Eklund,Homem,Morreu,16.0,3,7.775
+Mrs. John C (Anna Andrews) Hogeboom,Mulher,Sobreviveu,51.0,1,77.9583
+Dr. Arthur Jackson Brewe,Homem,Morreu,46.0,1,39.6
+Miss. Mary Mangan,Mulher,Sobreviveu,30.5,3,7.75
+Mr. Daniel J Moran,Homem,Morreu,28.0,3,24.15
+Mr. Daniel Danielsen Gronnestad,Homem,Morreu,32.0,3,8.3625
+Mr. Rene Aime Lievens,Homem,Morreu,24.0,3,9.5
+Mr. Niels Peder Jensen,Homem,Morreu,48.0,3,7.8542
+Mrs. (Mary) Mack,Mulher,Sobreviveu,57.0,2,10.5
+Mr. Dibo Elias,Homem,Morreu,29.0,3,7.225
+Mrs. Elizabeth (Eliza Needs) Hocking,Mulher,Sobreviveu,54.0,2,23.0
+Mr. Pehr Fabian Oliver Malkolm Myhrman,Homem,Morreu,18.0,3,7.75
+Mr. Roger Tobin,Homem,Morreu,20.0,3,7.75
+Miss. Virginia Ethel Emanuel,Mulher,Sobreviveu,5.0,3,12.475
+Mr. Thomas J Kilgannon,Homem,Morreu,22.0,3,7.7375
+Mrs. Edward Scott (Elisabeth Walton McMillan) Robert,Mulher,Sobreviveu,43.0,1,211.3375
+Miss. Banoura Ayoub,Mulher,Sobreviveu,13.0,3,7.2292
+Mrs. Albert Adrian (Vera Gillespie) Dick,Mulher,Sobreviveu,17.0,1,57.0
+Mr. Milton Clyde Long,Homem,Morreu,29.0,1,30.0
+Mr. Andrew G Johnston,Homem,Morreu,35.0,3,23.45
+Mr. William Ali,Homem,Morreu,25.0,3,7.05
+Mr. Abraham (David Lishin) Harmer,Homem,Morreu,25.0,3,7.25
+Miss. Anna Sofia Sjoblom,Mulher,Sobreviveu,18.0,3,7.4958
+Master. George Hugh Rice,Homem,Morreu,8.0,3,29.125
+Master. Bertram Vere Dean,Homem,Sobreviveu,1.0,3,20.575
+Mr. Benjamin Guggenheim,Homem,Morreu,46.0,1,79.2
+Mr. Andrew Keane,Homem,Morreu,20.0,3,7.75
+Mr. Alfred Gaskell,Homem,Morreu,16.0,2,26.0
+Miss. Stella Anna Sage,Mulher,Morreu,21.0,3,69.55
+Mr. William Fisher Hoyt,Homem,Morreu,43.0,1,30.6958
+Mr. Ristiu Dantcheff,Homem,Morreu,25.0,3,7.8958
+Mr. Richard Otter,Homem,Morreu,39.0,2,13.0
+Dr. Alice (Farnham) Leader,Mulher,Sobreviveu,49.0,1,25.9292
+Mrs. Mara Osman,Mulher,Sobreviveu,31.0,3,8.6833
+Mr. Yousseff Ibrahim Shawah,Homem,Morreu,30.0,3,7.2292
+Mrs. Jean Baptiste (Rosalie Paula Govaert) Van Impe,Mulher,Morreu,30.0,3,24.15
+Mr. Martin Ponesell,Homem,Morreu,34.0,2,13.0
+Mrs. Harvey (Charlotte Annie Tate) Collyer,Mulher,Sobreviveu,31.0,2,26.25
+Master. William Thornton II Carter,Homem,Sobreviveu,11.0,1,120.0
+Master. Assad Alexander Thomas,Homem,Sobreviveu,0.42,3,8.5167
+Mr. Oskar Arvid Hedman,Homem,Morreu,27.0,3,6.975
+Mr. Karl Johan Johansson,Homem,Morreu,31.0,3,7.775
+Mr. Thomas Jr Andrews,Homem,Morreu,39.0,1,0.0
+Miss. Ellen Natalia Pettersson,Mulher,Sobreviveu,18.0,3,7.775
+Mr. August Meyer,Homem,Morreu,39.0,2,13.0
+Mrs. Norman Campbell (Bertha Griggs) Chambers,Mulher,Sobreviveu,33.0,1,53.1
+Mr. William Alexander,Homem,Morreu,26.0,3,7.8875
+Mr. James Lester,Homem,Morreu,39.0,3,24.15
+Mr. Richard James Slemen,Homem,Morreu,35.0,2,10.5
+Miss. Ebba Iris Alfrida Andersson,Mulher,Morreu,6.0,3,31.275
+Mr. Ernest Portage Tomlin,Homem,Morreu,30.5,3,8.05
+Mr. Richard Fry,Homem,Morreu,39.0,1,0.0
+Miss. Wendla Maria Heininen,Mulher,Morreu,23.0,3,7.925
+Mr. Albert Mallet,Homem,Morreu,31.0,2,37.0042
+Mr. John Fredrik Alexander Holm,Homem,Morreu,43.0,3,6.45
+Master. Karl Thorsten Skoog,Homem,Morreu,10.0,3,27.9
+Mrs. Charles Melville (Clara Jennings Gregg) Hays,Mulher,Sobreviveu,52.0,1,93.5
+Mr. Nikola Lulic,Homem,Morreu,27.0,3,8.6625
+Jonkheer. John George Reuchlin,Homem,Morreu,38.0,1,0.0
+Mrs. (Beila) Moor,Mulher,Sobreviveu,27.0,3,12.475
+Master. Urho Abraham Panula,Homem,Morreu,2.0,3,39.6875
+Mr. John Flynn,Homem,Morreu,36.0,3,6.95
+Mr. Len Lam,Homem,Morreu,23.0,3,56.4958
+Master. Andre Mallet,Homem,Sobreviveu,1.0,2,37.0042
+Mr. Thomas Joseph McCormack,Homem,Morreu,19.0,3,7.75
+Mrs. George Nelson (Martha Evelyn) Stone,Mulher,Sobreviveu,62.0,1,80.0
+Mrs. Antoni (Selini Alexander) Yasbeck,Mulher,Sobreviveu,15.0,3,14.4542
+Master. George Sibley Richards,Homem,Sobreviveu,0.83,2,18.75
+Mr. Amin Saad,Homem,Morreu,30.0,3,7.2292
+Mr. Albert Augustsson,Homem,Morreu,23.0,3,7.8542
+Mr. Owen George Allum,Homem,Morreu,18.0,3,8.3
+Miss. Sara Rebecca Compton,Mulher,Sobreviveu,39.0,1,83.1583
+Mr. Jakob Pasic,Homem,Morreu,21.0,3,8.6625
+Mr. Maurice Sirota,Homem,Morreu,20.0,3,8.05
+Mr. Chang Chip,Homem,Morreu,32.0,3,56.4958
+Mr. Pierre Marechal,Homem,Morreu,29.0,1,29.7
+Mr. Ilmari Rudolf Alhomaki,Homem,Morreu,20.0,3,7.925
+Mr. Thomas Charles Mudd,Homem,Morreu,16.0,2,10.5
+Miss. Augusta Serepeca,Mulher,Sobreviveu,30.0,1,31.0
+Mr. Peter L Lemberopolous,Homem,Morreu,34.5,3,6.4375
+Mr. Jeso Culumovic,Homem,Morreu,17.0,3,8.6625
+Mr. Anthony Abbing,Homem,Morreu,42.0,3,7.55
+Mr. Douglas Bullen Sage,Homem,Morreu,18.0,3,69.55
+Mr. Marin Markoff,Homem,Morreu,35.0,3,7.8958
+Rev. John Harper,Homem,Morreu,28.0,2,33.0
+Mrs. Samuel L (Edwiga Grabowska) Goldenberg,Mulher,Sobreviveu,40.0,1,89.1042
+Master. Sigvard Harald Elias Andersson,Homem,Morreu,4.0,3,31.275
+Mr. Johan Svensson,Homem,Morreu,74.0,3,7.775
+Miss. Nourelain Boulos,Mulher,Morreu,9.0,3,15.2458
+Miss. Mary Conover Lines,Mulher,Sobreviveu,16.0,1,39.4
+Mrs. Ernest Courtenay (Lilian Hughes) Carter,Mulher,Sobreviveu,44.0,2,26.0
+Mrs. Sam (Leah Rosen) Aks,Mulher,Sobreviveu,18.0,3,9.35
+Mrs. George Dennick (Mary Hitchcock) Wick,Mulher,Sobreviveu,45.0,1,164.8667
+Mr. Peter Denis Daly,Homem,Sobreviveu,51.0,1,26.55
+Mrs. Solomon (Latifa Qurban) Baclini,Mulher,Sobreviveu,24.0,3,19.2583
+Mr. Raihed Razi,Homem,Morreu,30.0,3,7.2292
+Mr. Claus Peter Hansen,Homem,Morreu,41.0,3,14.1083
+Mr. Frederick Edward Giles,Homem,Morreu,21.0,2,11.5
+Mrs. Frederick Joel (Margaret Welles Barron) Swift,Mulher,Sobreviveu,48.0,1,25.9292
+Miss. Dorothy Edith Sage,Mulher,Morreu,14.0,3,69.55
+Mr. John William Gill,Homem,Morreu,24.0,2,13.0
+Mrs. (Karolina) Bystrom,Mulher,Sobreviveu,42.0,2,13.0
+Miss. Asuncion Duran y More,Mulher,Sobreviveu,27.0,2,13.8583
+Mr. Washington Augustus II Roebling,Homem,Morreu,31.0,1,50.4958
+Mr. Philemon van Melkebeke,Homem,Morreu,23.0,3,9.5
+Master. Harold Theodor Johnson,Homem,Sobreviveu,4.0,3,11.1333
+Mr. Cerin Balkic,Homem,Morreu,26.0,3,7.8958
+Mrs. Richard Leonard (Sallie Monypeny) Beckwith,Mulher,Sobreviveu,47.0,1,52.5542
+Mr. Frans Olof Carlsson,Homem,Morreu,33.0,1,5.0
+Mr. Victor Vander Cruyssen,Homem,Morreu,47.0,3,9.0
+Mrs. Samuel (Hannah Wizosky) Abelson,Mulher,Sobreviveu,28.0,2,24.0
+Miss. Adele Kiamie Najib,Mulher,Sobreviveu,15.0,3,7.225
+Mr. Alfred Ossian Gustafsson,Homem,Morreu,20.0,3,9.8458
+Mr. Nedelio Petroff,Homem,Morreu,19.0,3,7.8958
+Mr. Kristo Laleff,Homem,Morreu,23.0,3,7.8958
+Mrs. Thomas Jr (Lily Alexenia Wilson) Potter,Mulher,Sobreviveu,56.0,1,83.1583
+Mrs. William (Imanita Parrish Hall) Shelley,Mulher,Sobreviveu,25.0,2,26.0
+Mr. Johann Markun,Homem,Morreu,33.0,3,7.8958
+Miss. Gerda Ulrika Dahlberg,Mulher,Morreu,22.0,3,10.5167
+Mr. Frederick James Banfield,Homem,Morreu,28.0,2,10.5
+Mr. Henry Jr Sutehall,Homem,Morreu,25.0,3,7.05
+Mrs. William (Margaret Norton) Rice,Mulher,Morreu,39.0,3,29.125
+Rev. Juozas Montvila,Homem,Morreu,27.0,2,13.0
+Miss. Margaret Edith Graham,Mulher,Sobreviveu,19.0,1,30.0
+Miss. Catherine Helen Johnston,Mulher,Morreu,7.0,3,23.45
+Mr. Karl Howell Behr,Homem,Morreu,26.0,1,30.0
+Mr. Patrick Dooley,Homem,Morreu,32.0,3,7.75
